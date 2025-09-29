@@ -1,0 +1,364 @@
+[
+    {
+        "id": "3d2220dd-0915-4725-8e45-4e2441631ba1",
+        "name": "BSIT-32A1",
+        "students": [
+            {
+                "student_id": "C1124-23",
+                "name": "ALO, VICTOR"
+            },
+            {
+                "student_id": "1634-22",
+                "name": "AMBA, JOHN LORENZ"
+            },
+            {
+                "student_id": "C1279-23",
+                "name": "AQUINO, LAVINIA FAYE"
+            },
+            {
+                "student_id": "C1435-23",
+                "name": "ARDEZA, ALEXA MEI"
+            },
+            {
+                "student_id": "2160-19",
+                "name": "BAYOS, ARLANN BENEDICT"
+            },
+            {
+                "student_id": "C1484-23",
+                "name": "BUCIO, UNICE"
+            },
+            {
+                "student_id": "C1983-23",
+                "name": "BUNDALIAN, JAN XYROSS"
+            },
+            {
+                "student_id": "C1286-23",
+                "name": "BURDEOS, PATRICIA ANGELA"
+            },
+            {
+                "student_id": "C1482-23",
+                "name": "CLIMACO, ALEXA"
+            },
+            {
+                "student_id": "C1465-23",
+                "name": "CORPUZ, IAN"
+            },
+            {
+                "student_id": "C1071-23",
+                "name": "DAMICOG, JULIANA MARIE"
+            },
+            {
+                "student_id": "C1515-23",
+                "name": "GARCIA, ERICH MAE"
+            },
+            {
+                "student_id": "C1424-23",
+                "name": "GUILLENA, JOHN ANDREI"
+            },
+            {
+                "student_id": "C1780-23",
+                "name": "JAYSON, JOHN EMMANUEL"
+            },
+            {
+                "student_id": "C1769-23",
+                "name": "LEOMINARES, LANCE ANDRE"
+            },
+            {
+                "student_id": "C2871-23",
+                "name": "MARGRAVES, OSKIE"
+            },
+            {
+                "student_id": "C1778-23",
+                "name": "MENDOZA, JEROME"
+            },
+            {
+                "student_id": "C1014-23",
+                "name": "MONTAÑO, ZAINUL CALEB"
+            },
+            {
+                "student_id": "C1457-23",
+                "name": "NACARIO, ZHILDJIAN KURT"
+            },
+            {
+                "student_id": "C1222-23",
+                "name": "NOLASCO, KEITH ANGELO"
+            },
+            {
+                "student_id": "C1054-23",
+                "name": "OBEAL, RYDNER"
+            },
+            {
+                "student_id": "C1179-23",
+                "name": "OJERO, VINCE JACQUELENE"
+            },
+            {
+                "student_id": "C2865-24",
+                "name": "PADLAN, DAVID ANGELO LOUISE"
+            },
+            {
+                "student_id": "C1546-23",
+                "name": "RAMOS, ANTHONY"
+            },
+            {
+                "student_id": "C1381-23",
+                "name": "RAQUEM, LORENZO LEI"
+            },
+            {
+                "student_id": "C1241-23",
+                "name": "REBLANDO, JOSE ESTEBAN"
+            },
+            {
+                "student_id": "C1419-23",
+                "name": "RELOX, JEROME JAY"
+            },
+            {
+                "student_id": "C1248-23",
+                "name": "RONQUILLO, NIGEL CHRISTIAN"
+            },
+            {
+                "student_id": "C1168-23",
+                "name": "SANCHEZ, MARCUS ALDRIN"
+            },
+            {
+                "student_id": "C2210-23",
+                "name": "SORIANO, TERRANCE"
+            },
+            {
+                "student_id": "1565-21",
+                "name": "TAÑEGA, CHRISTOPHER JR"
+            },
+            {
+                "student_id": "C1245-23",
+                "name": "VILDA, GERRY"
+            },
+            {
+                "student_id": "C1182-23",
+                "name": "VILLADIEGO, HANS ANGELO"
+            },
+            {
+                "student_id": "C1034-23",
+                "name": "VILLAFUERTE, JOSHUA ANDREI"
+            }
+        ]
+    },
+    {
+        "id": "e53b1812-2506-4c0b-b91a-fc9d3442f9c4",
+        "name": "BSIT-31A2",
+        "students": [
+            {
+                "student_id": "C1621-23",
+                "name": "ACEDILLO, CYRILLE KURT"
+            },
+            {
+                "student_id": "C1552-23",
+                "name": "ALCANTARA, DM WILLIAM"
+            },
+            {
+                "student_id": "C1944-24",
+                "name": "ATIENZA, ULRICH ALLISTER"
+            },
+            {
+                "student_id": "C1080-23",
+                "name": "BELANO, JOHN MARCO"
+            },
+            {
+                "student_id": "C1639-23",
+                "name": "AUSTRIA, REDRICK"
+            },
+            {
+                "student_id": "C1707-23",
+                "name": "CANILAO, CRIS JONRICH"
+            },
+            {
+                "student_id": "C1579-23",
+                "name": "DOLLENTE, BIANCA ADRIENNE"
+            },
+            {
+                "student_id": "C1365-23",
+                "name": "FRANCO, RYAN CHRISTIAN"
+            },
+            {
+                "student_id": "C2781-24",
+                "name": "FRONDA, JAMES MATTHEW"
+            },
+            {
+                "student_id": "C1585-23",
+                "name": "GA, RONAN JUSTINE"
+            },
+            {
+                "student_id": "C1651-23",
+                "name": "GARCIA, JMARK LAWRENCE"
+            },
+            {
+                "student_id": "C1063-23",
+                "name": "GONZALES, MATTHEW BEJAMIN"
+            },
+            {
+                "student_id": "C1747-23",
+                "name": "HOYBIA, ALEXANDER"
+            },
+            {
+                "student_id": "C1562-23",
+                "name": "IGNACIO, MHIKE LORRENZ"
+            },
+            {
+                "student_id": "C2081-23",
+                "name": "MIRANDA, ROVELYN ANGEL"
+            },
+            {
+                "student_id": "C1744-23",
+                "name": "PEDRIÑA, RAYMOND"
+            },
+            {
+                "student_id": "C1123-23",
+                "name": "PEÑA, ARCHIE"
+            },
+            {
+                "student_id": "C2103-23",
+                "name": "QUINLOG, SEBASTIAN MATTHEW"
+            },
+            {
+                "student_id": "C1634-24",
+                "name": "QUIÑO, CHERRY MAE"
+            },
+            {
+                "student_id": "C1551-23",
+                "name": "RANARIO, JOSE VIRGILIO"
+            },
+            {
+                "student_id": "C1661-23",
+                "name": "RICACHO, JOSE GABRIEL"
+            },
+            {
+                "student_id": "C1797-23",
+                "name": "RODRIGUEZ, BLADHIMIR TYLER"
+            },
+            {
+                "student_id": "C1599-23",
+                "name": "VALENCIA, LORENE MIKYLE"
+            }
+        ]
+    },
+    {
+        "id": "877a633f-4e52-4057-87dd-bc3922525d42",
+        "name": "BSIT-31A3",
+        "students": [
+            {
+                "student_id": "C2006-23",
+                "name": "ABRIO, DRIAN EUJAY"
+            },
+            {
+                "student_id": "C1593-23",
+                "name": "ANURAN, ERICSON"
+            },
+            {
+                "student_id": "C1118-23",
+                "name": "ATOG, SEAN"
+            },
+            {
+                "student_id": "C2202-23",
+                "name": "BUSTRILLO, JASON"
+            },
+            {
+                "student_id": "C1988-23",
+                "name": "CASAKIT, BEATRICE"
+            },
+            {
+                "student_id": "C2008-23",
+                "name": "CENARDO, VERNALYN"
+            },
+            {
+                "student_id": "C1092-23",
+                "name": "DE CASTRO, PIERRE BENEDICT"
+            },
+            {
+                "student_id": "C2027-23",
+                "name": "DELA CRUZ, JEAN ROMUALD"
+            },
+            {
+                "student_id": "C2205-23",
+                "name": "DIAZ, REINZ DEREK"
+            },
+            {
+                "student_id": "C1076-17",
+                "name": "FLOR, PATRICK DAE"
+            },
+            {
+                "student_id": "C2040-23",
+                "name": "GUANZON, JOHNLLOYD"
+            },
+            {
+                "student_id": "C2005-23",
+                "name": "GUARDIAN, RYMARK"
+            },
+            {
+                "student_id": "C1944-23",
+                "name": "JAVIER, MARY JHAZMINE"
+            },
+            {
+                "student_id": "C1929-23",
+                "name": "LIM, KIM CARLO"
+            },
+            {
+                "student_id": "C2903-23",
+                "name": "LOBRICO, JB"
+            },
+            {
+                "student_id": "C1822-23",
+                "name": "LORICO, NICK JAMES"
+            },
+            {
+                "student_id": "1896-21",
+                "name": "LUCBAN, RACHELLE ANNE"
+            },
+            {
+                "student_id": "C1662-24",
+                "name": "MADALAG, MATTHEW"
+            },
+            {
+                "student_id": "C2097-23",
+                "name": "MATIGA, XYRYLLE CLAIRE"
+            },
+            {
+                "student_id": "C1394-23",
+                "name": "MIRANDA, JOHN NIÑO"
+            },
+            {
+                "student_id": "C1881-23",
+                "name": "OBIS, FRANCINE MEI"
+            },
+            {
+                "student_id": "1353-22",
+                "name": "PAGHARI-ON, ANTHONY"
+            },
+            {
+                "student_id": "C1923-23",
+                "name": "RAMIREZ, PRINCE DENZEL"
+            },
+            {
+                "student_id": "C2261-24",
+                "name": "RAMONES, REGINA ANGELA"
+            },
+            {
+                "student_id": "C1030-23",
+                "name": "RED, DANIEL RAFAEL"
+            },
+            {
+                "student_id": "C1949-23",
+                "name": "RODRIGUEZ, YUAN JASPER"
+            },
+            {
+                "student_id": "C1878-23",
+                "name": "SAGUBAN, BIANCA JEANELLE"
+            },
+            {
+                "student_id": "C1922-23",
+                "name": "VICENTE, RONNEL JOHN"
+            },
+            {
+                "student_id": "C2057-23",
+                "name": "YOUNG, VYANCE GABRIELLE"
+            }
+        ]
+    }
+]
