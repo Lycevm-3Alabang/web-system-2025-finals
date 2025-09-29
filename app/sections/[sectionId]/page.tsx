@@ -1,4 +1,4 @@
-import { tasks, sharedInstruction } from "@/data/tasks";
+import { tasks, sharedInstruction, Task } from "@/data/tasks";
 import sections from "@/data/sections.json";
 import type { Student, Section } from "@/types/types";
 
@@ -42,13 +42,19 @@ export default function SectionPage({
 
   const students = section.students;
 
-  const assignments = students.map((s: Student) => {
-    const seed = hashStringToSeed(section.id + s.student_id);
-    const rand = mulberry32(seed)();
-    const taskIndex = Math.floor(rand * tasks.length);
-    const task = tasks[taskIndex];
-    return { student: s, task };
-  });
+  type Assignment = {
+  student: Student;
+  task: Task;
+};
+
+const assignments: Assignment[] = students.map((s: Student) => {
+  const seed = hashStringToSeed(section.id + s.student_id);
+  const rand = mulberry32(seed)();
+  const taskIndex = Math.floor(rand * tasks.length);
+  const task = tasks[taskIndex];
+  return { student: s, task };
+});
+
 
   return (
     <div className="min-h-screen bg-gray-50 text-gray-800">
@@ -84,7 +90,7 @@ export default function SectionPage({
                 </tr>
               </thead>
               <tbody>
-                {assignments.map((a: any, idx: number) => (
+                {assignments.map((a: Assignment, idx: number) => (
                   <tr
                     key={idx}
                     className={`${
