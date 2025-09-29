@@ -10,8 +10,12 @@ Each project must:
 - Use interfaces where applicable.
 - Use EF Core Code-First with DbContext.
 - Include MVC Identity (passwords: at least 2 uppercase, 3 numbers, 3 symbols).
-- Push code to GitHub repo.
+- Push code to GitHub repo (no ZIP uploads, no bulk uploads).
+- Use GitHub project for commit tracking.
+- Each commit must include a maximum of at least 5 files only.
+- Live debugging will be conducted on presentation day.
 `;
+
 
 export const tasks: Task[] = [
   { id: "f5b0d55e-91df-4d77-8baf-6a1c8c1d5f01", title: "Student Quiz System", description: "Roles: Admin creates quizzes, Students take them. Track scores and leaderboard." },
